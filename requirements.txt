@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+streamlit
+numpy
+xgboost
+joblib
+category_encoders
+xgboost
+
